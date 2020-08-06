@@ -1,5 +1,5 @@
 // Import stylesheets
-import './bootstrap.css';
+import './myBookings.css';
 
 // Write javascript code
 const appDiv = 
